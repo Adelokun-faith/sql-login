@@ -1,0 +1,71 @@
+marquee h1{
+    width: 100px;
+}
+
+.login{
+    background-color: gray;
+    color: black;
+    width: 300px;
+    position: absolute;
+    left: 260px;
+    height: 900px;
+    bottom: 20px;
+}
+
+.login{
+    text-align: center;
+}
+
+.gin label{
+    color: black;
+    position: absolute;
+    left: 50px;
+}
+
+#lgender{
+    left: 0;
+    right: 0;
+}
+
+input[type=text] {
+    width: 80%;
+    height: 40px;
+    padding: 10px;
+    background-color: #f3f3f3;
+    color: #333;
+}
+
+.gin a{
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 100px;
+    width: 100px;
+    height: 30px;
+    border: 2px steelblue;
+    bottom: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    padding-top: 5px;
+}
+
+.gin p{
+    color: black;
+    font-weight: 700;
+    margin-right: 180px;
+}
+
+a:hover{
+    color: red;
+}
+
+.general{
+    background-color: whitesmoke;
+    box-shadow: 0px 8px 16px burlywood;
+    height: 950px;
+    width: 800px;
+    position: absolute;
+    left: 300px;
+    top: 25px;
+    border-radius: 20px;
+}
